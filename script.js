@@ -23,5 +23,4 @@ document.querySelector('#check').addEventListener('click', function () {
     sum = sum + vowelTotal;
   }
   alert(`There are ${sum} vowels`);
-  console.log(sum);
 });
